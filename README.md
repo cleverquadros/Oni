@@ -15,5 +15,5 @@
   <li><strong>Backend:</strong> Python, Flask</li>
   <li><strong>Database:</strong> SQLite with SQL Alchemy</li>
   <li><strong>Authentication:</strong> Flask Login</li>
-  <li><strong>Environment:</strong> Postman for rout test</li>
+  <li><strong>Environment:</strong> Postman for route test</li>
 </ul>
